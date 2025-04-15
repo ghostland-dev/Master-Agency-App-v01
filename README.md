@@ -1,6 +1,5 @@
 # Agency Plain - Creative Multipurpose Tailwi
-
-![alt text](image.png)
+ 
 
 **Plain** est un template web moderne, élégant et entièrement responsive, conçu avec **Tailwind CSS**. Il est idéal pour les agences, freelances, startups ou tout projet SaaS ou business souhaitant une présentation professionnelle.
 
@@ -8,7 +7,8 @@
 
 ## 🖼️ Aperçu Visuel
 
-![Template Screenshot](./7524dcd4-9435-47d6-83d5-2f1a1e77ca1e.png)
+![alt text](image.png)
+
 
 ---
 
